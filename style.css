@@ -658,8 +658,8 @@ main {
 
 .ca-address-inner ul li:first-of-type {
     position: absolute;
-    left: 0px;
-    bottom: 0px;
+    left: 20px;
+    bottom: 20px;
 }
 
 .ca-address-inner ul li:last-of-type {

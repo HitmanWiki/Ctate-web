@@ -161,7 +161,7 @@ Small Screen - Tablate
     .Tokenomics-right span {
         color: #180C00;
         text-align: center;
-        font-family: Hirosh;
+        font-family: Bonzai;
         font-size: 14px;
         font-style: normal;
         font-weight: 700;
@@ -170,7 +170,7 @@ Small Screen - Tablate
         display: inline-block;
         padding: 26px 29px;
         border-radius: 20px 20px 0 0;
-        background: #FFA84B;
+        background: #9b0707;
         margin-top: 30px;
     }
     .Tokenomics-right ul li {
@@ -345,7 +345,7 @@ Small Screen - Mobile
         margin-bottom: 31px;
     }
     .ca-address-inner ul li img {
-        width: 80px;
+        width: 200px;
     }
     .ca-area {
         padding: 27px 0;
