@@ -368,7 +368,7 @@ Small Screen - Mobile
     .Tokenomics-right span {
         color: #180C00;
         text-align: center;
-        font-family: Hirosh;
+        font-family: Bonzai;
         font-size: 14px;
         font-style: normal;
         font-weight: 700;
@@ -377,7 +377,7 @@ Small Screen - Mobile
         display: inline-block;
         padding: 26px 29px;
         border-radius: 20px 20px 0 0;
-        background: #FFA84B;
+        background: #9b0707;
         margin-top: 30px;
     }
     .Tokenomics-right ul li {

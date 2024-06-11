@@ -635,8 +635,8 @@ main {
 }
 
 .ca-area {
-    /* padding: 100px 0;
-    position: relative; */
+     padding: 100px 0;
+    position: relative; 
 }
 
 .cl-rains-rg {
@@ -646,14 +646,14 @@ main {
     z-index: -1;
 }
 
-.ca-address-inner {
-    padding: 166px 170px;
+/* .ca-address-inner {
+    padding: 66px 70px;
     border-radius: 80px;
     border: 4px solid #D8DADA;
     background: #FFF;
     box-shadow: 10px 10px 0px 0px #DED7D1;
     position: relative;
-    overflow: hidden;
+    overflow: hidden; */
 }
 
 .ca-address-inner ul li:first-of-type {
